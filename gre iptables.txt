@@ -1,0 +1,7 @@
+iptables -A INPUT -p gre -s адрес -d адрес -j ACCEPT
+iptables -A OUTPUT -p gre -s адрес -d адрес -j ACCEPT
+
+iptables -A INPUT -p gre -j DROP
+iptables -A OUTPUT -p gre -j DROP
+
+добавить
