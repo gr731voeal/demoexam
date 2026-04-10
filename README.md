@@ -22,9 +22,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5b73e70e-cae9-429c-a0e6-a63f7a40d77f" alt="ISP config 1">
 </p>
-hostnamectl set-hostname isp.au-team.irpo
-newgrp
-hostname isp.au-team.irpo
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/590f9cf1-13f2-408f-bf69-a56d1191169d" alt="ISP config 2">
 </p>
